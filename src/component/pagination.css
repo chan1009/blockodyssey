@@ -1,0 +1,20 @@
+.PaginationWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.PaginationSelect {
+  height: 20px;
+}
+.pagination {
+  text-align: center;
+}
+.page-item {
+  display: inline-block;
+  width: 20px;
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+  cursor: pointer;
+}

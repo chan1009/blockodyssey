@@ -1,0 +1,45 @@
+.ListWrapper {
+  margin-top: 20px;
+  background-color: white;
+}
+
+.HeaderWrapper {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+}
+.ContentWrapper {
+  display: flex;
+  justify-content: space-between;
+}
+.ProductWrapper {
+  display: flex;
+  padding-bottom: 40px;
+  justify-content: space-between;
+}
+
+.item {
+  width: 180px;
+  text-align: center;
+}
+
+/* .id {
+  padding-left: 20px;
+  padding-right: 200px;
+}
+
+.title {
+  padding-right: 170px;
+}
+.brand {
+  padding-right: 90px;
+}
+
+.price {
+  padding-left: 45px;
+  padding-right: 170px;
+}
+
+.rating {
+  padding-right: 180px;
+} */

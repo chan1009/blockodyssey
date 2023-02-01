@@ -1,0 +1,17 @@
+.SearchWrapper {
+  background-color: white;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.Search {
+  display: flex;
+}
+.Select {
+  margin-left: 10%;
+  margin-right: 10px;
+}
+
+.Button {
+  margin-left: 10px;
+}
